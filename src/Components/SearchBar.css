@@ -1,0 +1,31 @@
+.bar-wrapper{
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    border: 1px solid #7C7C7C;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+ .text-field{
+    display: flex;
+    justify-content: center;
+ } 
+
+input{
+    display: flex;  
+    width: 300px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #7C7C7C ;
+
+}
+
+button{
+    border: 0px;
+    border-radius: 3px;
+    background: #7C7C7C;
+    color: white;
+}

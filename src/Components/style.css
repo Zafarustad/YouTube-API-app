@@ -1,0 +1,18 @@
+.video-item{
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.video-item.item img{
+    max-width: 180px;
+}
+
+.ui{
+    background: #1E1E1E !important;
+    color: #7C7C7C !important;
+}
+
+.header{
+    color: #7C7C7C !important;
+}
